@@ -13,7 +13,7 @@ const Data = [
     icon: "icon-graduation",
     year: "2022 - 2022",
     title: "Professional Certification - Moringa School",
-    desc: "Software Engineering : Tools Covered: Vanilla JavaScript, HTML, CSS, Unix/Linux CLI, React JS / Redux / JSX / Vite, Version Control, Figma Designing, Ruby on Rails, SQL / PostgreSQL, DOM Manipulation, App deployment / Cloud Hosting,UI/UX",
+    desc: "Software Engineering ",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const Data = [
     icon: "icon-graduation",
     year: "2020 - 2021",
     title: "Professional Certification - Moringa School",
-    desc: " Data Science : Supervised & Unsupervised Learning, Advanced Regression i.e. Linear, Logistic, Ridge, Lasso, Polynomial, Elastic-net models, etc, Classification and Regression Trees (CART): Decision Trees. Neural Networks: RNN, ANN, CNN, MLP, Tensor flow. R for Data Science: Data wrangling and EDA in R, Association Analysis, Clustering Techniques, etc. Teamwork and Collaboration. Project presentation and Documentation.",
+    desc: " Data Science",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "22022 - 2023",
     title: "Machine Leaning Engineer - United States of Africa",
-    desc: "Develop machine learning applications according to requirements, Research and implement appropriate ML algorithms and tools for NLP tasks. Train the developed model and run evaluation experiments",
+    desc: "Develop machine learning applications according to requirements",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "2021 - 2022",
     title: "Data Scientist - Bidco- Africa",
-    desc: "    Business intelligence to the top management for an eye-bird view of the business performance. Automation Processes using Python, Power BI, R, Microsoft Flows(Microsoft Power Automate).Geospatial routing using Kepplers, Mapbox, Aspose, My maps. SAP data validation through BobJ. Sales People Management and product movement checks.This role included: - Business intelligence to the top management for an eye-bird view of the business performance. - Automation Processes using Python, Power BI, R, Microsoft Flows(Microsoft Power Automate) - Geospatial routing using Kepplers, Mapbox, Aspose, My maps. - SAP data validation through BobJ - Sales People Management and product movement checks.",
+    desc: "Business intelligence to the top management for an eye-bird view of the business performance. ",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "2019 - 2021",
     title: "Data Scientist - Upwork",
-    desc: "Data visualization projects to provide intelligence, Build data models such as predictive models, Recommender engines, Research-based on the client's needs and the project needs, Consulting",
+    desc: "Research-based on the client's needs and the project needs, Consulting",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "2022 - present",
     title: "Economist - The National Treasury of Kenya",
-    desc: "    Research economic issues. Conduct surveys and collect data. Analyze data using mathematical models, statistical techniques, and software.Present research results in reports, tables, and charts. Interpret and forecast market trends ",
+    desc: "Research economic issues. Conduct surveys and collect data. ",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "2021 - 2021",
     title: "Data science consultant- Saharadatatech",
-    desc: "Involved in educating clients on varying aspects of data and modern technology. More specifically; Building up customers' analytics skills. Data competencies. Better structure the machinations and workings of their business to get optimal intelligence from the metadata points.",
+    desc: "Involved in educating clients on varying aspects of data and modern technology.",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "2019 - 2020",
     title: "Data Analyst Facilitator - Peer2Peer University",
-    desc: "The main roles as a facilitator were; Provide interactive classes. Build structured content for the students. Formulate real time-based projects. Measure and evaluate the performances",
+    desc: "The main roles as a facilitator were; Provide interactive classes.",
   },
 ];
 
