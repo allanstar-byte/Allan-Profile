@@ -8,23 +8,23 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "UI/UX design",
+    title: "Data Science",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "I provide Data Science as a Service (DSaaS) to streamline your data analysis needs. With my expertise, I offer cost-effective outsourcing, access to specialized insights, scalable services, and rapid delivery of actionable insights.  priority is ensuring data security, maintaining clear communication, and aligning with your business objectives.",
   },
   {
     id: 2,
     image: Image2,
-    title: "Web Development",
+    title: "Software Engineering",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Offering top-tier software engineering services, I specialize in crafting tailored solutions for your needs. Whether you're starting from scratch or optimizing existing systems, count on me to deliver excellence from concept to deployment. Let's bring your software ideas to life.",
   },
   {
     id: 3,
     image: Image3,
-    title: "Photography",
+    title: "UI/UX",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Offering UI/UX services, I specialize in creating intuitive and visually appealing user interfaces and experiences. Whether you need a new design from scratch or improvements to an existing one, I ensure a seamless and engaging user journey. Let's collaborate to elevate your digital presence and user satisfaction.",
   },
 ];
 

@@ -19,7 +19,7 @@ const About = () => {
               My passion lies in harnessing the power of data and leveraging it to drive business goals effectively. 
               Through my innovative data applications, I enable companies to make informed decisions and unlock their true potential.
             </p>
-            <a href="" className="btn">
+            <a href="https://drive.google.com/file/d/1mCJDcjPfUR2ORc2gEMtpX04EnWNvDemk/view?usp=drive_link" className="btn">
               Download CV
             </a>
           </div>
@@ -66,6 +66,16 @@ const About = () => {
 
               <div className="skills__bar">
                 <span className="skills__percentage engineering"></span>
+              </div>
+            </div>
+            <div className="skills__data">
+              <div className="skills__titles">
+                <h3 className="skills__name"> Software Engineering</h3>
+                <span className="skills__number">80%</span>
+              </div>
+
+              <div className="skills__bar">
+                <span className="skills__percentage photography"></span>
               </div>
             </div>
 
