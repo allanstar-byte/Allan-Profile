@@ -15,19 +15,19 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "John Doe",
-    subtitle: "Product designer at Dribble",
+    title: "Hezron Kyalo",
+    subtitle: "Software Engineer",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "It was an altimate time to work with Mr. Allan, who's hardworking, works smart and has a great taste in tech 👍",
   },
-  {
-    id: 2,
-    image: Image3,
-    title: "John Doe",
-    subtitle: "Product designer at Dribble",
-    comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
-  },
+  // {
+  //   id: 2,
+  //   image: Image3,
+  //   title: "John Doe",
+  //   subtitle: "Product designer at Dribble",
+  //   comment:
+  //     "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+  // },
 ];
 
 const Testimonials = () => {
