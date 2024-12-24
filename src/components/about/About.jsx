@@ -17,9 +17,9 @@ const About = () => {
               I am Allan Ngoma, a highly skilled Data Scientist and Developer based in Nairobi, Kenya. 
               With my extensive expertise in data products, I excel in both building and customizing solutions that cater to specific business needs. 
               My passion lies in harnessing the power of data and leveraging it to drive business goals effectively. 
-              Through my innovative data applications, I enable companies to make informed decisions and unlock their true potential.
+              Through my innovative skills, I enable organisations to make informed decisions and unlock their true potential.
             </p>
-            <a href="https://drive.google.com/file/d/1mCJDcjPfUR2ORc2gEMtpX04EnWNvDemk/view?usp=drive_link" className="btn">
+            <a href="https://drive.google.com/file/d/1v_DtuuGION2Otx3CR7EANNh-I37m62BE/view?usp=sharing" className="btn">
               Download CV
             </a>
           </div>

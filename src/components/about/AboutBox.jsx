@@ -36,7 +36,7 @@ const AboutBox = () => {
         <div>
           <h3 className="about__title">1</h3>
           <span className="about__subtitle">
-            <a href="" className="">Nominees winner</a>
+            <a href="" className="">Recognitions</a>
             </span>
         </div>
       </div>
