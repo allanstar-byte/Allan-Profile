@@ -18,7 +18,7 @@ const Pricing = () => {
           </p>
           <p className="pricing__support">Email support</p>
           <h3 className="price">
-            <em>$</em> 9 <span>Month</span>
+            <em>$</em> 30 <span>Month</span>
           </h3>
           <a href="" className="btn">
             Get Started
@@ -34,7 +34,7 @@ const Pricing = () => {
           </p>
           <p className="pricing__support">Mon-Fri support</p>
           <h3 className="price">
-            <em>$</em> 15 <span>Month</span>
+            <em>$</em> 50 <span>Month</span>
           </h3>
           <a href="" className="btn">
             Get Started
@@ -49,7 +49,7 @@ const Pricing = () => {
           </p>
           <p className="pricing__support">24/7 support</p>
           <h3 className="price">
-            <em>$</em> 19 <span>Month</span>
+            <em>$</em> 100 <span>Month</span>
           </h3>
           <a href="" className="btn">
             Get Started

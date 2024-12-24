@@ -11,6 +11,8 @@ const Contact = () => {
           <h3 className="contact__title">Let's talk about everything!</h3>
           <p className="contact__details">
             Don't like forms? Send me an email. 👋
+            
+            allanmutisya263@gmail.com
           </p>
         </div>
 
